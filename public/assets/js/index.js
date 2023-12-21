@@ -84,6 +84,7 @@ const handleNoteSave = () => {
 };
 
 // Delete the clicked note
+//NOTE: the note is deleted from db.json, but stays on screen untill reload
 const handleNoteDelete = (e) => {
   // Prevents the click listener for the list from being called when the button inside of it is clicked
   e.stopPropagation();

@@ -1,32 +1,7 @@
 [
-    {
-        "title": "Test Title",
-        "text": "Test text",
-        "note_id": "1234"
-    },
-    {
-        "title": "dinner",
-        "text": "pasta",
-        "note_id": "d1fb"
-    },
-    {
-        "title": "shop",
-        "text": "pants\nshoes",
-        "note_id": "6dc3"
-    },
-    {
-        "title": "party",
-        "text": "my house",
-        "note_id": "49e6"
-    },
-    {
-        "title": "fart",
-        "text": "stinky",
-        "note_id": "2dd9"
-    },
-    {
-        "title": "run",
-        "text": "fast",
-        "note_id": "6e2c"
-    }
+   {
+      "title": "Test",
+      "text": "test stuff",
+      "id": "ed36"
+   }
 ]
