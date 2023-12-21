@@ -7,4 +7,4 @@ This is an app to take and store notes in a json file, that can be saved for lat
 ![Image of note taker app](image.png)
 
 ## Link
-https://jakesmitty05.github.io/note-taker-app/
+https://note-taker-app-js-a62d5ffa562d.herokuapp.com/
